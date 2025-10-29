@@ -1,0 +1,3 @@
+__pycache__
+*.pyc
+tmdb_data/  # If you don’t want to push the dataset
